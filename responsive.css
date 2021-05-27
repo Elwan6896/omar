@@ -1,0 +1,242 @@
+    @media(min-width: 414px) {
+        .header h1 {
+            position: relative;
+            left: 13%;
+        }
+        .header button {
+            position: relative;
+            left: 15%;
+        }
+        .head .header .head-button {
+            position: relative;
+            left: -259px;
+        }
+        .container .row a {
+            position: relative;
+            left: 24%;
+        }
+        .popup .popup-content .select-code .input-3 {
+            width: 60%;
+        }
+    }
+    /*==========================================
+===========================================*/
+    
+    @media(min-width: 540px) {
+        .header h1 {
+            position: relative;
+            left: 22%;
+        }
+        .header button {
+            position: relative;
+            left: 38%;
+        }
+        .container .row {
+            height: 353px;
+        }
+        .container .row a {
+            position: relative;
+            left: 30%;
+        }
+        .popup .popup-content .select-code .input-3 {
+            width: 68%;
+        }
+        .sidenav .closebtn {
+            position: relative;
+            left: 64%;
+        }
+    }
+    /*==========================================
+===========================================*/
+    
+    @media(min-width: 575px) {
+        .header img {
+            width: 96px;
+        }
+        .header h1 {
+            position: relative;
+            left: 21%;
+        }
+        .header button {
+            position: relative;
+            left: 40%;
+        }
+        .head .header .head-button {
+            position: relative;
+            left: -283px;
+        }
+        .container .row {
+            height: 300px;
+        }
+        .container .row a {
+            position: relative;
+            left: 32%;
+        }
+        .popup .popup-content img {
+            position: relative;
+            top: -36px;
+        }
+        .popup .popup-content input {
+            width: 65%;
+            margin: 20px auto 0 61px;
+        }
+        .popup .popup-content .select-code .input-3 {
+            width: 40%;
+            margin: 20px auto 0 64px;
+        }
+        .popup .popup-content .select-code .select {
+            position: relative;
+            right: -61px;
+        }
+    }
+    /*==========================================
+===========================================*/
+    
+    @media(min-width: 768px) {
+        .header h1 {
+            position: relative;
+            left: 28%;
+            margin-top: 38px;
+        }
+        .header button {
+            position: relative;
+            left: 56%;
+        }
+        .container .row {
+            height: 174px;
+            display: flex;
+        }
+        .container .row a {
+            position: relative;
+            left: 32%;
+            margin: 12% auto 0px 47px;
+        }
+        .popup .popup-content input {
+            width: 52%;
+            margin: 20px auto 0 149px;
+        }
+        .popup .popup-content .select-code .select {
+            position: relative;
+            right: -149px;
+        }
+        .popup .popup-content .select-code .input-3 {
+            width: 33%;
+            margin: 20px auto 0 153px;
+        }
+        .sidenav .closebtn {
+            position: relative;
+            left: 58%;
+        }
+    }
+    /*==========================================
+===========================================*/
+    
+    @media (min-width: 1024px) {
+        .header h1 {
+            position: relative;
+            left: 33%;
+        }
+        .header button {
+            position: relative;
+            left: 68%;
+        }
+        .container .row a {
+            position: relative;
+            left: 78%;
+        }
+        .popup .popup-content {
+            width: 50%;
+        }
+        .popup .popup-content input {
+            width: 62%;
+            margin: 20px auto 0 99px;
+        }
+        .popup .popup-content .select-code .select {
+            position: relative;
+            right: -98px;
+        }
+        .popup .popup-content .select-code .input-3 {
+            width: 40%;
+            margin: 20px auto 0 101px;
+        }
+    }
+    /*==========================================
+===========================================*/
+    
+    @media (min-width: 1080px) {
+        .header h1 {
+            position: relative;
+            left: 34%;
+        }
+        .header button {
+            position: relative;
+            left: 70%;
+        }
+        .container .side_button input {
+            position: relative;
+            left: 20%;
+        }
+        .container .row a {
+            position: relative;
+            left: 80%;
+        }
+        .sidenav .closebtn {
+            position: relative;
+            left: 54%;
+        }
+    }
+    /*==========================================
+===========================================*/
+    
+    @media (min-width: 1122px) {
+        .header h1 {
+            position: relative;
+            left: 36%;
+        }
+        .sidenav .closebtn {
+            position: relative;
+            left: 54%;
+            top: -10em;
+        }
+        .header button {
+            position: relative;
+            left: 77%;
+        }
+        .container .row {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        .container .row .row-1 {
+            display: flex;
+            position: relative;
+            left: -550px;
+            top: -90px;
+            height: 50%;
+        }
+        .container .row .row-2 {
+            display: flex;
+            position: relative;
+            left: -550px;
+            top: -90px;
+        }
+        .container .row a {
+            position: relative;
+            left: 54%;
+            padding: 10px;
+        }
+        .popup .popup-content {
+            width: 500px;
+        }
+        .popup .popup-content input {
+            margin: 20px auto 0 119px;
+            width: 63%;
+        }
+        .popup .popup-content .select-code .select {
+            position: relative;
+            right: -120px;
+        }
+        .popup .popup-content .select-code .input-3 {
+            margin: 20px auto 0 123px;
+        }
+    }
